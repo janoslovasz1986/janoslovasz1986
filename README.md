@@ -9,7 +9,6 @@ You can click the Preview link to take a look at your changes.
 ## I'm a softver developer.
 
 - 🌱 I’m currently learning Blazor Pages.
-- 👯 I’m looking for a C# developer position.
 
 
 ### Connect with me:
