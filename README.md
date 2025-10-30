@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Hi there, I'm Janos
 
-## I'm an IT techinican.
+## I'm an IT technician.
 
 - 🌱 I worked for years as IT support. Meanwhile I created some useeful programs to help my dauky work.
 - 
