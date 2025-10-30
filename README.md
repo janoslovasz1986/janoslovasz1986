@@ -6,9 +6,10 @@ You can click the Preview link to take a look at your changes.
 
 ### Hi there, I'm Janos
 
-## I'm a softver developer.
+## I'm an IT techinican.
 
-- 🌱 I’m currently learning Angular to become Full-stack developer.
+- 🌱 I worked for years as IT support. Meanwhile I created some useeful programs to help my dauky work.
+- 
 
 
 ### Connect with me:
